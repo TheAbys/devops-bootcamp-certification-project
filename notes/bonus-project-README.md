@@ -1,3 +1,5 @@
+[Notes overview](https://github.com/TheAbys/devops-bootcamp-certification-project/blob/master/README.md)
+
 # Bonus-Project
 
 ## Disclaimer
