@@ -42,7 +42,7 @@
 	url = git@github.com:TheAbys/devops-bootcamp-13-programming-with-python.git
 [submodule "devops-bootcamp-14-automation-with-python"]
 	path = devops-bootcamp-14-automation-with-python
-	url = 
+	url = git@github.com:TheAbys/devops-bootcamp-14-automation-with-python.git
 [submodule "devops-bootcamp-15-ansible"]
 	path = devops-bootcamp-15-ansible
 	url = git@github.com:TheAbys/devops-bootcamp-15-ansible.git
