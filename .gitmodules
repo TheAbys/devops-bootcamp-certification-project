@@ -1,0 +1,51 @@
+[submodule "devops-bootcamp-07-docker-js-app"]
+	path = devops-bootcamp-07-docker-js-app
+	url = git@github.com:TheAbys/devops-bootcamp-07-docker-js-app.git
+[submodule "devops-bootcamp-08-jenkins"]
+	path = devops-bootcamp-08-jenkins
+	url = git@github.com:TheAbys/devops-bootcamp-08-jenkins.git
+[submodule "devops-bootcamp-08-jenkins-shared-library"]
+	path = devops-bootcamp-08-jenkins-shared-library
+	url = git@github.com:TheAbys/devops-bootcamp-08-jenkins-shared-library.git
+[submodule "devops-bootcamp-09-aws-java-maven-app"]
+	path = devops-bootcamp-09-aws-java-maven-app
+	url = git@github.com:TheAbys/devops-bootcamp-09-aws-java-maven-app.git
+[submodule "devops-bootcamp-10-kubernetes-configmap-and-secret-volume-types"]
+	path = devops-bootcamp-10-kubernetes-configmap-and-secret-volume-types
+	url = git@github.com:TheAbys/devops-bootcamp-10-kubernetes-configmap-and-secret-volume-types.git
+[submodule "devops-bootcamp-10-kubernetes-demo-deploying-application"]
+	path = devops-bootcamp-10-kubernetes-demo-deploying-application
+	url = git@github.com:TheAbys/devops-bootcamp-10-kubernetes-demo-deploying-application.git
+[submodule "devops-bootcamp-10-kubernetes-deploying-images-from-private-docker-repo"]
+	path = devops-bootcamp-10-kubernetes-deploying-images-from-private-docker-repo
+	url = git@github.com:TheAbys/devops-bootcamp-10-kubernetes-deploying-images-from-private-docker-repo.git
+[submodule "devops-bootcamp-10-kubernetes-helm-chart-microservices"]
+	path = devops-bootcamp-10-kubernetes-helm-chart-microservices
+	url = git@github.com:TheAbys/devops-bootcamp-10-kubernetes-helm-chart-microservices.git
+[submodule "devops-bootcamp-10-kubernetes-helm-demo"]
+	path = devops-bootcamp-10-kubernetes-helm-demo
+	url = git@github.com:TheAbys/devops-bootcamp-10-kubernetes-helm-demo.git
+[submodule "devops-bootcamp-10-kubernetes-js-app"]
+	path = devops-bootcamp-10-kubernetes-js-app
+	url = git@github.com:TheAbys/devops-bootcamp-10-kubernetes-js-app.git
+[submodule "devops-bootcamp-11-eks"]
+	path = devops-bootcamp-11-eks
+	url = git@github.com:TheAbys/devops-bootcamp-11-eks.git
+[submodule "devops-bootcamp-12-java-maven-app"]
+	path = devops-bootcamp-12-java-maven-app
+	url = git@github.com:TheAbys/devops-bootcamp-12-java-maven-app.git
+[submodule "devops-bootcamp-12-terraform"]
+	path = devops-bootcamp-12-terraform
+	url = git@github.com:TheAbys/devops-bootcamp-12-terraform.git
+[submodule "devops-bootcamp-13-programming-with-python"]
+	path = devops-bootcamp-13-programming-with-python
+	url = git@github.com:TheAbys/devops-bootcamp-13-programming-with-python.git
+[submodule "devops-bootcamp-14-automation-with-python"]
+	path = devops-bootcamp-14-automation-with-python
+	url = 
+[submodule "devops-bootcamp-15-ansible"]
+	path = devops-bootcamp-15-ansible
+	url = git@github.com:TheAbys/devops-bootcamp-15-ansible.git
+[submodule "devops-bootcamp-16-prometheus"]
+	path = devops-bootcamp-16-prometheus
+	url = git@github.com:TheAbys/devops-bootcamp-16-prometheus.git
